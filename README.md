@@ -6,4 +6,14 @@ Infrared (IR) images are often affected by the bias field effects, leading to th
 ## Overview of OABFC
 ![Structure Figure](OABFC_flow.png)
 
-## Citation
+## Publication
+```
+If you want to use this work, please consider citing the following paper.
+@article{ge2026optimized,
+  title={An optimized additive bias field correction model for infrared image segmentation with intensity non-uniformity},
+  author={Ge, Pengqiang and Wan, Minjie and Qian, Weixian and Kong, Xiaofang and Weng, Guirong and Gu, Guohua and Chen, Qian},
+  journal={Expert Systems with Applications},
+  pages={131787},
+  year={2026},
+  publisher={Elsevier}}
+```
